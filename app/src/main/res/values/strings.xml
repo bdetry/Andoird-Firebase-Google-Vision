@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gestion des invités</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_dashboard">Ajout</string>
+    <string name="title_notifications">invités</string>
+    <string name="agent">Agents</string>
+    <string name="event">Evénements</string>
+    <string name="bienvenue">Bienvenue</string>
+    <string name="title_activity_add">Ajouter invité</string>
+    <string name="title_activity_invetd">Invités</string>
+
+</resources>
